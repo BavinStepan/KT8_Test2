@@ -1,4 +1,4 @@
-# Petstore API: тесты на xUnit и NUnit
+# КТ 8. Задание «Анализ результатов» .NET:  xUnit и NUnit
 
 Нужно было протестировать публичное API Petstore (https://petstore.swagger.io/v2) двумя
 фреймворками .NET - xUnit и NUnit - и сравнить их между собой.
