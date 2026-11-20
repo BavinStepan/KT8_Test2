@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="analysis.md" />
+    <File Path="questions.md" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="PetstoreTests.NUnit/PetstoreTests.NUnit.csproj" />
+  <Project Path="PetstoreTests.XUnit/PetstoreTests.XUnit.csproj" />
+</Solution>
